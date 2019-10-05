@@ -1,4 +1,4 @@
- Summary on video: https://youtu.be/pSseQnbQoyg
+ Summary on video: https://youtu.be/J9oJCTfVfM4
  
 First, we need to create a DataBase called 'insoftar'. The following SQL will necessary.
 
