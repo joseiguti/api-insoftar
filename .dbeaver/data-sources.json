@@ -1,0 +1,30 @@
+{
+	"folders": {},
+	"connections": {
+		"mysql8-16d8f951dd3-55562c8cbc45c421": {
+			"provider": "mysql",
+			"driver": "mysql8",
+			"name": "MySQL 8+ - insoftar",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"host": "localhost",
+				"port": "8889",
+				"database": "insoftar",
+				"url": "jdbc:mysql://localhost:8889/insoftar",
+				"type": "dev",
+				"handlers": {}
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Development",
+			"color": "255,255,255",
+			"description": "Regular development database",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false
+		}
+	}
+}
